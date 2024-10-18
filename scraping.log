@@ -1,0 +1,298 @@
+2024-10-18 04:52:57,741 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-18 04:52:59,579 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-18 04:53:05,223 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-18 04:53:05,329 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-18 04:53:06,195 - INFO - Phone migrated to 4
+2024-10-18 04:53:06,327 - INFO - Reconnecting to new data center 4
+2024-10-18 04:53:06,575 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-18 04:53:06,577 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-18 04:53:06,578 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-18 04:53:08,214 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-18 04:53:21,764 - INFO - Client started successfully.
+2024-10-18 04:53:22,581 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:23,951 - INFO - Downloaded media for message ID 864.
+2024-10-18 04:53:23,951 - INFO - Processed message ID 864 from @DoctorsET.
+2024-10-18 04:53:23,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:25,735 - INFO - Downloaded media for message ID 863.
+2024-10-18 04:53:25,735 - INFO - Processed message ID 863 from @DoctorsET.
+2024-10-18 04:53:25,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:27,179 - INFO - Downloaded media for message ID 862.
+2024-10-18 04:53:27,179 - INFO - Processed message ID 862 from @DoctorsET.
+2024-10-18 04:53:27,181 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:28,746 - INFO - Downloaded media for message ID 861.
+2024-10-18 04:53:28,746 - INFO - Processed message ID 861 from @DoctorsET.
+2024-10-18 04:53:28,747 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:29,763 - INFO - Downloaded media for message ID 860.
+2024-10-18 04:53:29,764 - INFO - Processed message ID 860 from @DoctorsET.
+2024-10-18 04:53:29,766 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:30,626 - INFO - Downloaded media for message ID 859.
+2024-10-18 04:53:30,627 - INFO - Processed message ID 859 from @DoctorsET.
+2024-10-18 04:53:30,630 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:32,213 - INFO - Downloaded media for message ID 848.
+2024-10-18 04:53:32,213 - INFO - Processed message ID 848 from @DoctorsET.
+2024-10-18 04:53:32,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:33,493 - INFO - Downloaded media for message ID 847.
+2024-10-18 04:53:33,493 - INFO - Processed message ID 847 from @DoctorsET.
+2024-10-18 04:53:33,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:34,903 - INFO - Downloaded media for message ID 846.
+2024-10-18 04:53:34,904 - INFO - Processed message ID 846 from @DoctorsET.
+2024-10-18 04:53:34,905 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:36,434 - INFO - Downloaded media for message ID 845.
+2024-10-18 04:53:36,434 - INFO - Processed message ID 845 from @DoctorsET.
+2024-10-18 04:53:36,435 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:37,954 - INFO - Downloaded media for message ID 844.
+2024-10-18 04:53:37,954 - INFO - Processed message ID 844 from @DoctorsET.
+2024-10-18 04:53:37,956 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:39,378 - INFO - Downloaded media for message ID 843.
+2024-10-18 04:53:39,378 - INFO - Processed message ID 843 from @DoctorsET.
+2024-10-18 04:53:39,379 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:40,212 - INFO - Downloaded media for message ID 842.
+2024-10-18 04:53:40,212 - INFO - Processed message ID 842 from @DoctorsET.
+2024-10-18 04:53:40,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:41,289 - INFO - Downloaded media for message ID 841.
+2024-10-18 04:53:41,289 - INFO - Processed message ID 841 from @DoctorsET.
+2024-10-18 04:53:41,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:42,251 - INFO - Downloaded media for message ID 840.
+2024-10-18 04:53:42,252 - INFO - Processed message ID 840 from @DoctorsET.
+2024-10-18 04:53:42,254 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:43,565 - INFO - Downloaded media for message ID 839.
+2024-10-18 04:53:43,565 - INFO - Processed message ID 839 from @DoctorsET.
+2024-10-18 04:53:43,566 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:44,964 - INFO - Downloaded media for message ID 836.
+2024-10-18 04:53:44,965 - INFO - Processed message ID 836 from @DoctorsET.
+2024-10-18 04:53:44,967 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:46,019 - INFO - Downloaded media for message ID 835.
+2024-10-18 04:53:46,019 - INFO - Processed message ID 835 from @DoctorsET.
+2024-10-18 04:53:46,021 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:46,994 - INFO - Downloaded media for message ID 834.
+2024-10-18 04:53:46,995 - INFO - Processed message ID 834 from @DoctorsET.
+2024-10-18 04:53:46,997 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:47,972 - INFO - Downloaded media for message ID 833.
+2024-10-18 04:53:47,972 - INFO - Processed message ID 833 from @DoctorsET.
+2024-10-18 04:53:47,973 - INFO - Scraped data from @DoctorsET.
+2024-10-18 04:53:48,755 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:50,806 - INFO - Downloaded media for message ID 12580.
+2024-10-18 04:53:50,806 - INFO - Processed message ID 12580 from lobelia4cosmetics.
+2024-10-18 04:53:50,808 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:51,870 - INFO - Downloaded media for message ID 12579.
+2024-10-18 04:53:51,871 - INFO - Processed message ID 12579 from lobelia4cosmetics.
+2024-10-18 04:53:51,872 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:53,403 - INFO - Downloaded media for message ID 12578.
+2024-10-18 04:53:53,404 - INFO - Processed message ID 12578 from lobelia4cosmetics.
+2024-10-18 04:53:53,405 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:54,759 - INFO - Downloaded media for message ID 12577.
+2024-10-18 04:53:54,760 - INFO - Processed message ID 12577 from lobelia4cosmetics.
+2024-10-18 04:53:54,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:55,994 - INFO - Downloaded media for message ID 12576.
+2024-10-18 04:53:55,994 - INFO - Processed message ID 12576 from lobelia4cosmetics.
+2024-10-18 04:53:55,996 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:58,117 - INFO - Downloaded media for message ID 12575.
+2024-10-18 04:53:58,117 - INFO - Processed message ID 12575 from lobelia4cosmetics.
+2024-10-18 04:53:58,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:59,606 - INFO - Downloaded media for message ID 12574.
+2024-10-18 04:53:59,606 - INFO - Processed message ID 12574 from lobelia4cosmetics.
+2024-10-18 04:53:59,608 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:53:59,909 - INFO - Downloaded media for message ID 12573.
+2024-10-18 04:53:59,909 - INFO - Processed message ID 12573 from lobelia4cosmetics.
+2024-10-18 04:53:59,911 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:00,262 - INFO - Downloaded media for message ID 12572.
+2024-10-18 04:54:00,263 - INFO - Processed message ID 12572 from lobelia4cosmetics.
+2024-10-18 04:54:00,264 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:01,202 - INFO - Downloaded media for message ID 12571.
+2024-10-18 04:54:01,203 - INFO - Processed message ID 12571 from lobelia4cosmetics.
+2024-10-18 04:54:01,204 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:02,007 - INFO - Downloaded media for message ID 12570.
+2024-10-18 04:54:02,007 - INFO - Processed message ID 12570 from lobelia4cosmetics.
+2024-10-18 04:54:02,009 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:02,352 - INFO - Downloaded media for message ID 12569.
+2024-10-18 04:54:02,353 - INFO - Processed message ID 12569 from lobelia4cosmetics.
+2024-10-18 04:54:02,354 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:02,592 - INFO - Downloaded media for message ID 12568.
+2024-10-18 04:54:02,592 - INFO - Processed message ID 12568 from lobelia4cosmetics.
+2024-10-18 04:54:02,595 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:03,222 - INFO - Downloaded media for message ID 12567.
+2024-10-18 04:54:03,222 - INFO - Processed message ID 12567 from lobelia4cosmetics.
+2024-10-18 04:54:03,223 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:03,432 - INFO - Downloaded media for message ID 12566.
+2024-10-18 04:54:03,433 - INFO - Processed message ID 12566 from lobelia4cosmetics.
+2024-10-18 04:54:03,434 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:03,784 - INFO - Downloaded media for message ID 12565.
+2024-10-18 04:54:03,784 - INFO - Processed message ID 12565 from lobelia4cosmetics.
+2024-10-18 04:54:03,786 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:04,612 - INFO - Downloaded media for message ID 12564.
+2024-10-18 04:54:04,612 - INFO - Processed message ID 12564 from lobelia4cosmetics.
+2024-10-18 04:54:04,613 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:05,085 - INFO - Downloaded media for message ID 12563.
+2024-10-18 04:54:05,086 - INFO - Processed message ID 12563 from lobelia4cosmetics.
+2024-10-18 04:54:05,087 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:05,768 - INFO - Downloaded media for message ID 12562.
+2024-10-18 04:54:05,768 - INFO - Processed message ID 12562 from lobelia4cosmetics.
+2024-10-18 04:54:05,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:06,503 - INFO - Downloaded media for message ID 12561.
+2024-10-18 04:54:06,503 - INFO - Processed message ID 12561 from lobelia4cosmetics.
+2024-10-18 04:54:06,504 - INFO - Scraped data from lobelia4cosmetics.
+2024-10-18 04:54:07,105 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:07,880 - INFO - Downloaded media for message ID 1184.
+2024-10-18 04:54:07,880 - INFO - Processed message ID 1184 from yetenaweg.
+2024-10-18 04:54:07,881 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:08,549 - INFO - Downloaded media for message ID 1183.
+2024-10-18 04:54:08,550 - INFO - Processed message ID 1183 from yetenaweg.
+2024-10-18 04:54:08,550 - INFO - Processed message ID 1182 from yetenaweg.
+2024-10-18 04:54:08,550 - INFO - Processed message ID 1181 from yetenaweg.
+2024-10-18 04:54:08,550 - INFO - Processed message ID 1180 from yetenaweg.
+2024-10-18 04:54:08,551 - INFO - Processed message ID 1179 from yetenaweg.
+2024-10-18 04:54:08,552 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:09,637 - INFO - Downloaded media for message ID 1178.
+2024-10-18 04:54:09,638 - INFO - Processed message ID 1178 from yetenaweg.
+2024-10-18 04:54:09,639 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:10,865 - INFO - Downloaded media for message ID 1177.
+2024-10-18 04:54:10,865 - INFO - Processed message ID 1177 from yetenaweg.
+2024-10-18 04:54:10,866 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:12,257 - INFO - Downloaded media for message ID 1176.
+2024-10-18 04:54:12,257 - INFO - Processed message ID 1176 from yetenaweg.
+2024-10-18 04:54:12,259 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:13,080 - INFO - Downloaded media for message ID 1175.
+2024-10-18 04:54:13,080 - INFO - Processed message ID 1175 from yetenaweg.
+2024-10-18 04:54:13,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:14,479 - INFO - Downloaded media for message ID 1172.
+2024-10-18 04:54:14,480 - INFO - Processed message ID 1172 from yetenaweg.
+2024-10-18 04:54:14,482 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:15,921 - INFO - Downloaded media for message ID 1171.
+2024-10-18 04:54:15,921 - INFO - Processed message ID 1171 from yetenaweg.
+2024-10-18 04:54:15,921 - INFO - Processed message ID 1170 from yetenaweg.
+2024-10-18 04:54:15,926 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:16,490 - INFO - Downloaded media for message ID 1169.
+2024-10-18 04:54:16,490 - INFO - Processed message ID 1169 from yetenaweg.
+2024-10-18 04:54:16,492 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:17,558 - INFO - Downloaded media for message ID 1168.
+2024-10-18 04:54:17,559 - INFO - Processed message ID 1168 from yetenaweg.
+2024-10-18 04:54:17,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:18,441 - INFO - Downloaded media for message ID 1167.
+2024-10-18 04:54:18,442 - INFO - Processed message ID 1167 from yetenaweg.
+2024-10-18 04:54:18,443 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:19,982 - INFO - Downloaded media for message ID 1166.
+2024-10-18 04:54:19,982 - INFO - Processed message ID 1166 from yetenaweg.
+2024-10-18 04:54:19,984 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:20,838 - INFO - Downloaded media for message ID 1165.
+2024-10-18 04:54:20,838 - INFO - Processed message ID 1165 from yetenaweg.
+2024-10-18 04:54:20,841 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:54:21,636 - INFO - Downloaded media for message ID 1164.
+2024-10-18 04:54:21,636 - INFO - Processed message ID 1164 from yetenaweg.
+2024-10-18 04:54:21,638 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:08,926 - INFO - Downloaded media for message ID 1163.
+2024-10-18 04:55:08,926 - INFO - Processed message ID 1163 from yetenaweg.
+2024-10-18 04:55:08,927 - INFO - Scraped data from yetenaweg.
+2024-10-18 04:55:10,117 - INFO - Processed message ID 2424 from EAHCI.
+2024-10-18 04:55:10,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:11,692 - INFO - Downloaded media for message ID 2423.
+2024-10-18 04:55:11,692 - INFO - Processed message ID 2423 from EAHCI.
+2024-10-18 04:55:11,693 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:13,786 - INFO - Downloaded media for message ID 2422.
+2024-10-18 04:55:13,786 - INFO - Processed message ID 2422 from EAHCI.
+2024-10-18 04:55:13,787 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:15,161 - INFO - Downloaded media for message ID 2421.
+2024-10-18 04:55:15,161 - INFO - Processed message ID 2421 from EAHCI.
+2024-10-18 04:55:15,162 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:16,854 - INFO - Downloaded media for message ID 2420.
+2024-10-18 04:55:16,854 - INFO - Processed message ID 2420 from EAHCI.
+2024-10-18 04:55:16,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:18,664 - INFO - Downloaded media for message ID 2419.
+2024-10-18 04:55:18,665 - INFO - Processed message ID 2419 from EAHCI.
+2024-10-18 04:55:18,665 - INFO - Processed message ID 2417 from EAHCI.
+2024-10-18 04:55:18,667 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:20,015 - INFO - Downloaded media for message ID 2416.
+2024-10-18 04:55:20,015 - INFO - Processed message ID 2416 from EAHCI.
+2024-10-18 04:55:20,016 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:20,819 - INFO - Downloaded media for message ID 2414.
+2024-10-18 04:55:20,819 - INFO - Processed message ID 2414 from EAHCI.
+2024-10-18 04:55:20,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:21,585 - INFO - Downloaded media for message ID 2413.
+2024-10-18 04:55:21,586 - INFO - Processed message ID 2413 from EAHCI.
+2024-10-18 04:55:21,587 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:22,938 - INFO - Downloaded media for message ID 2408.
+2024-10-18 04:55:22,938 - INFO - Processed message ID 2408 from EAHCI.
+2024-10-18 04:55:22,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:23,140 - INFO - Downloaded media for message ID 2407.
+2024-10-18 04:55:23,140 - INFO - Processed message ID 2407 from EAHCI.
+2024-10-18 04:55:23,141 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:23,479 - INFO - Downloaded media for message ID 2406.
+2024-10-18 04:55:23,479 - INFO - Processed message ID 2406 from EAHCI.
+2024-10-18 04:55:23,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:24,375 - INFO - Downloaded media for message ID 2405.
+2024-10-18 04:55:24,375 - INFO - Processed message ID 2405 from EAHCI.
+2024-10-18 04:55:24,375 - INFO - Processed message ID 2404 from EAHCI.
+2024-10-18 04:55:24,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:25,520 - INFO - Downloaded media for message ID 2403.
+2024-10-18 04:55:25,520 - INFO - Processed message ID 2403 from EAHCI.
+2024-10-18 04:55:25,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:26,983 - INFO - Downloaded media for message ID 2402.
+2024-10-18 04:55:26,984 - INFO - Processed message ID 2402 from EAHCI.
+2024-10-18 04:55:26,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:27,788 - INFO - Downloaded media for message ID 2401.
+2024-10-18 04:55:27,789 - INFO - Processed message ID 2401 from EAHCI.
+2024-10-18 04:55:27,789 - INFO - Processed message ID 2400 from EAHCI.
+2024-10-18 04:55:27,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:29,177 - INFO - Downloaded media for message ID 2399.
+2024-10-18 04:55:29,177 - INFO - Processed message ID 2399 from EAHCI.
+2024-10-18 04:55:29,178 - INFO - Scraped data from EAHCI.
+2024-10-18 04:55:29,837 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:30,850 - INFO - Downloaded media for message ID 97.
+2024-10-18 04:55:30,852 - INFO - Processed message ID 97 from CheMed123.
+2024-10-18 04:55:30,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:32,386 - INFO - Downloaded media for message ID 96.
+2024-10-18 04:55:32,386 - INFO - Processed message ID 96 from CheMed123.
+2024-10-18 04:55:32,387 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:33,282 - INFO - Downloaded media for message ID 95.
+2024-10-18 04:55:33,282 - INFO - Processed message ID 95 from CheMed123.
+2024-10-18 04:55:33,283 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:34,130 - INFO - Downloaded media for message ID 94.
+2024-10-18 04:55:34,131 - INFO - Processed message ID 94 from CheMed123.
+2024-10-18 04:55:34,132 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:35,350 - INFO - Downloaded media for message ID 93.
+2024-10-18 04:55:35,350 - INFO - Processed message ID 93 from CheMed123.
+2024-10-18 04:55:35,393 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:36,541 - INFO - Downloaded media for message ID 92.
+2024-10-18 04:55:36,542 - INFO - Processed message ID 92 from CheMed123.
+2024-10-18 04:55:36,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:37,320 - INFO - Downloaded media for message ID 91.
+2024-10-18 04:55:37,320 - INFO - Processed message ID 91 from CheMed123.
+2024-10-18 04:55:37,322 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:38,841 - INFO - Downloaded media for message ID 90.
+2024-10-18 04:55:38,842 - INFO - Processed message ID 90 from CheMed123.
+2024-10-18 04:55:38,843 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:43,796 - INFO - Downloaded media for message ID 89.
+2024-10-18 04:55:43,796 - INFO - Processed message ID 89 from CheMed123.
+2024-10-18 04:55:43,798 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:45,022 - INFO - Downloaded media for message ID 88.
+2024-10-18 04:55:45,023 - INFO - Processed message ID 88 from CheMed123.
+2024-10-18 04:55:45,024 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:46,652 - INFO - Downloaded media for message ID 87.
+2024-10-18 04:55:46,653 - INFO - Processed message ID 87 from CheMed123.
+2024-10-18 04:55:46,654 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:47,981 - INFO - Downloaded media for message ID 86.
+2024-10-18 04:55:47,981 - INFO - Processed message ID 86 from CheMed123.
+2024-10-18 04:55:47,983 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:48,666 - INFO - Downloaded media for message ID 85.
+2024-10-18 04:55:48,666 - INFO - Processed message ID 85 from CheMed123.
+2024-10-18 04:55:48,667 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:49,579 - INFO - Downloaded media for message ID 82.
+2024-10-18 04:55:49,579 - INFO - Processed message ID 82 from CheMed123.
+2024-10-18 04:55:49,580 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:50,900 - INFO - Downloaded media for message ID 81.
+2024-10-18 04:55:50,900 - INFO - Processed message ID 81 from CheMed123.
+2024-10-18 04:55:50,902 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:51,868 - INFO - Downloaded media for message ID 80.
+2024-10-18 04:55:51,868 - INFO - Processed message ID 80 from CheMed123.
+2024-10-18 04:55:51,870 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:53,343 - INFO - Downloaded media for message ID 79.
+2024-10-18 04:55:53,343 - INFO - Processed message ID 79 from CheMed123.
+2024-10-18 04:55:53,344 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:55,326 - INFO - Downloaded media for message ID 78.
+2024-10-18 04:55:55,326 - INFO - Processed message ID 78 from CheMed123.
+2024-10-18 04:55:55,327 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:56,555 - INFO - Downloaded media for message ID 77.
+2024-10-18 04:55:56,556 - INFO - Processed message ID 77 from CheMed123.
+2024-10-18 04:55:56,557 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-18 04:55:57,756 - INFO - Downloaded media for message ID 76.
+2024-10-18 04:55:57,756 - INFO - Processed message ID 76 from CheMed123.
+2024-10-18 04:55:57,757 - INFO - Scraped data from CheMed123.
