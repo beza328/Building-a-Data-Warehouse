@@ -38,3 +38,97 @@
 2024-10-19 06:12:00,142 - INFO - Standardized format for column Message in dataset 4.
 2024-10-19 06:12:00,145 - INFO - Standardized format for column Date in dataset 4.
 2024-10-19 06:12:00,149 - INFO - Standardized format for column Media Path in dataset 4.
+2024-10-19 06:13:17,527 - INFO - Stored cleaned data for dataset 0 to cleaned_data.
+2024-10-19 06:13:17,532 - INFO - Stored cleaned data for dataset 1 to cleaned_data.
+2024-10-19 06:13:17,791 - INFO - Stored cleaned data for dataset 2 to cleaned_data.
+2024-10-19 06:13:17,796 - INFO - Stored cleaned data for dataset 3 to cleaned_data.
+2024-10-19 06:13:17,802 - INFO - Stored cleaned data for dataset 4 to cleaned_data.
+2024-10-19 06:16:06,162 - INFO - Processed image: @DoctorsET_833.jpg.
+2024-10-19 06:16:06,218 - INFO - Processed image: @DoctorsET_834.jpg.
+2024-10-19 06:16:06,318 - INFO - Processed image: @DoctorsET_835.jpg.
+2024-10-19 06:16:06,405 - INFO - Processed image: @DoctorsET_836.jpg.
+2024-10-19 06:16:06,501 - INFO - Processed image: @DoctorsET_839.jpg.
+2024-10-19 06:16:06,564 - INFO - Processed image: @DoctorsET_840.jpg.
+2024-10-19 06:16:06,663 - INFO - Processed image: @DoctorsET_841.jpg.
+2024-10-19 06:16:06,728 - INFO - Processed image: @DoctorsET_842.jpg.
+2024-10-19 06:16:06,826 - INFO - Processed image: @DoctorsET_843.jpg.
+2024-10-19 06:16:06,893 - INFO - Processed image: @DoctorsET_844.jpg.
+2024-10-19 06:16:06,980 - INFO - Processed image: @DoctorsET_845.jpg.
+2024-10-19 06:16:07,046 - INFO - Processed image: @DoctorsET_846.jpg.
+2024-10-19 06:16:07,123 - INFO - Processed image: @DoctorsET_847.jpg.
+2024-10-19 06:16:07,210 - INFO - Processed image: @DoctorsET_848.jpg.
+2024-10-19 06:16:07,264 - INFO - Processed image: @DoctorsET_859.jpg.
+2024-10-19 06:16:07,343 - INFO - Processed image: @DoctorsET_860.jpg.
+2024-10-19 06:16:07,507 - INFO - Processed image: @DoctorsET_861.jpg.
+2024-10-19 06:16:07,574 - INFO - Processed image: @DoctorsET_862.jpg.
+2024-10-19 06:16:07,675 - INFO - Processed image: @DoctorsET_863.jpg.
+2024-10-19 06:16:07,737 - INFO - Processed image: @DoctorsET_864.jpg.
+2024-10-19 06:16:07,801 - INFO - Processed image: CheMed123_76.jpg.
+2024-10-19 06:16:07,928 - INFO - Processed image: CheMed123_77.jpg.
+2024-10-19 06:16:08,057 - INFO - Processed image: CheMed123_78.jpg.
+2024-10-19 06:16:08,136 - INFO - Processed image: CheMed123_79.jpg.
+2024-10-19 06:16:08,186 - INFO - Processed image: CheMed123_80.jpg.
+2024-10-19 06:16:08,265 - INFO - Processed image: CheMed123_81.jpg.
+2024-10-19 06:16:08,326 - INFO - Processed image: CheMed123_82.jpg.
+2024-10-19 06:16:08,384 - INFO - Processed image: CheMed123_85.jpg.
+2024-10-19 06:16:08,472 - INFO - Processed image: CheMed123_86.jpg.
+2024-10-19 06:16:08,530 - INFO - Processed image: CheMed123_87.jpg.
+2024-10-19 06:16:08,630 - INFO - Processed image: CheMed123_88.jpg.
+2024-10-19 06:16:08,762 - INFO - Processed image: CheMed123_90.jpg.
+2024-10-19 06:16:08,827 - INFO - Processed image: CheMed123_91.jpg.
+2024-10-19 06:16:08,901 - INFO - Processed image: CheMed123_92.jpg.
+2024-10-19 06:16:08,984 - INFO - Processed image: CheMed123_93.jpg.
+2024-10-19 06:16:09,054 - INFO - Processed image: CheMed123_94.jpg.
+2024-10-19 06:16:09,124 - INFO - Processed image: CheMed123_95.jpg.
+2024-10-19 06:16:09,220 - INFO - Processed image: CheMed123_96.jpg.
+2024-10-19 06:16:09,308 - INFO - Processed image: CheMed123_97.jpg.
+2024-10-19 06:16:09,375 - INFO - Processed image: EAHCI_2399.jpg.
+2024-10-19 06:16:09,447 - INFO - Processed image: EAHCI_2401.jpg.
+2024-10-19 06:16:09,498 - INFO - Processed image: EAHCI_2402.jpg.
+2024-10-19 06:16:09,569 - INFO - Processed image: EAHCI_2403.jpg.
+2024-10-19 06:16:09,612 - INFO - Processed image: EAHCI_2405.jpg.
+2024-10-19 06:16:09,645 - INFO - Processed image: EAHCI_2406.jpg.
+2024-10-19 06:16:09,678 - INFO - Processed image: EAHCI_2407.jpg.
+2024-10-19 06:16:09,753 - INFO - Processed image: EAHCI_2408.jpg.
+2024-10-19 06:16:09,830 - INFO - Processed image: EAHCI_2413.jpg.
+2024-10-19 06:16:09,900 - INFO - Processed image: EAHCI_2414.jpg.
+2024-10-19 06:16:10,020 - INFO - Processed image: EAHCI_2416.jpg.
+2024-10-19 06:16:10,186 - INFO - Processed image: EAHCI_2419.jpg.
+2024-10-19 06:16:10,365 - INFO - Processed image: EAHCI_2420.jpg.
+2024-10-19 06:16:10,554 - INFO - Processed image: EAHCI_2421.jpg.
+2024-10-19 06:16:10,699 - INFO - Processed image: EAHCI_2422.jpg.
+2024-10-19 06:16:10,861 - INFO - Processed image: EAHCI_2423.jpg.
+2024-10-19 06:16:10,953 - INFO - Processed image: lobelia4cosmetics_12561.jpg.
+2024-10-19 06:16:11,084 - INFO - Processed image: lobelia4cosmetics_12562.jpg.
+2024-10-19 06:16:11,227 - INFO - Processed image: lobelia4cosmetics_12563.jpg.
+2024-10-19 06:16:11,364 - INFO - Processed image: lobelia4cosmetics_12564.jpg.
+2024-10-19 06:16:11,426 - INFO - Processed image: lobelia4cosmetics_12565.jpg.
+2024-10-19 06:16:11,459 - INFO - Processed image: lobelia4cosmetics_12566.jpg.
+2024-10-19 06:16:11,551 - INFO - Processed image: lobelia4cosmetics_12567.jpg.
+2024-10-19 06:16:11,678 - INFO - Processed image: lobelia4cosmetics_12568.jpg.
+2024-10-19 06:16:11,784 - INFO - Processed image: lobelia4cosmetics_12569.jpg.
+2024-10-19 06:16:11,990 - INFO - Processed image: lobelia4cosmetics_12570.jpg.
+2024-10-19 06:16:12,259 - INFO - Processed image: lobelia4cosmetics_12571.jpg.
+2024-10-19 06:16:12,355 - INFO - Processed image: lobelia4cosmetics_12572.jpg.
+2024-10-19 06:16:12,429 - INFO - Processed image: lobelia4cosmetics_12573.jpg.
+2024-10-19 06:16:12,564 - INFO - Processed image: lobelia4cosmetics_12574.jpg.
+2024-10-19 06:16:12,780 - INFO - Processed image: lobelia4cosmetics_12575.jpg.
+2024-10-19 06:16:12,929 - INFO - Processed image: lobelia4cosmetics_12576.jpg.
+2024-10-19 06:16:13,104 - INFO - Processed image: lobelia4cosmetics_12577.jpg.
+2024-10-19 06:16:13,266 - INFO - Processed image: lobelia4cosmetics_12578.jpg.
+2024-10-19 06:16:13,359 - INFO - Processed image: lobelia4cosmetics_12579.jpg.
+2024-10-19 06:16:13,485 - INFO - Processed image: lobelia4cosmetics_12580.jpg.
+2024-10-19 06:16:13,605 - INFO - Processed image: yetenaweg_1164.jpg.
+2024-10-19 06:16:13,686 - INFO - Processed image: yetenaweg_1165.jpg.
+2024-10-19 06:16:13,769 - INFO - Processed image: yetenaweg_1166.jpg.
+2024-10-19 06:16:13,828 - INFO - Processed image: yetenaweg_1167.jpg.
+2024-10-19 06:16:13,896 - INFO - Processed image: yetenaweg_1168.jpg.
+2024-10-19 06:16:13,952 - INFO - Processed image: yetenaweg_1169.jpg.
+2024-10-19 06:16:14,040 - INFO - Processed image: yetenaweg_1171.jpg.
+2024-10-19 06:16:14,120 - INFO - Processed image: yetenaweg_1172.jpg.
+2024-10-19 06:16:14,202 - INFO - Processed image: yetenaweg_1175.jpg.
+2024-10-19 06:16:14,361 - INFO - Processed image: yetenaweg_1176.jpg.
+2024-10-19 06:16:14,424 - INFO - Processed image: yetenaweg_1177.jpg.
+2024-10-19 06:16:14,569 - INFO - Processed image: yetenaweg_1178.jpg.
+2024-10-19 06:16:14,662 - INFO - Processed image: yetenaweg_1183.jpg.
+2024-10-19 06:16:14,794 - INFO - Processed image: yetenaweg_1184.jpg.
