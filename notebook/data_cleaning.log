@@ -1,0 +1,40 @@
+2024-10-19 06:09:59,503 - INFO - Loaded file: AHCI_data.csv with 20 rows.
+2024-10-19 06:09:59,511 - INFO - Loaded file: DoctorsET_data.csv with 20 rows.
+2024-10-19 06:09:59,516 - INFO - Loaded file: etenaweg_data.csv with 20 rows.
+2024-10-19 06:09:59,528 - INFO - Loaded file: heMed123_data.csv with 20 rows.
+2024-10-19 06:09:59,536 - INFO - Loaded file: obelia4cosmetics_data.csv with 20 rows.
+2024-10-19 06:10:26,439 - INFO - Removed duplicates from dataset 0. Original length: 20, New length: 20.
+2024-10-19 06:10:26,443 - INFO - Removed duplicates from dataset 1. Original length: 20, New length: 20.
+2024-10-19 06:10:26,447 - INFO - Removed duplicates from dataset 2. Original length: 20, New length: 20.
+2024-10-19 06:10:26,451 - INFO - Removed duplicates from dataset 3. Original length: 20, New length: 20.
+2024-10-19 06:10:26,455 - INFO - Removed duplicates from dataset 4. Original length: 20, New length: 20.
+2024-10-19 06:10:44,258 - INFO - Handled missing values in dataset 0.
+2024-10-19 06:10:44,259 - INFO - Handled missing values in dataset 1.
+2024-10-19 06:10:44,261 - INFO - Handled missing values in dataset 2.
+2024-10-19 06:10:44,263 - INFO - Handled missing values in dataset 3.
+2024-10-19 06:10:44,265 - INFO - Handled missing values in dataset 4.
+2024-10-19 06:11:59,992 - INFO - Standardized format for column Channel Title in dataset 0.
+2024-10-19 06:11:59,998 - INFO - Standardized format for column Channel Username in dataset 0.
+2024-10-19 06:12:00,018 - INFO - Standardized format for column Message in dataset 0.
+2024-10-19 06:12:00,029 - INFO - Standardized format for column Date in dataset 0.
+2024-10-19 06:12:00,036 - INFO - Standardized format for column Media Path in dataset 0.
+2024-10-19 06:12:00,043 - INFO - Standardized format for column Channel Title in dataset 1.
+2024-10-19 06:12:00,052 - INFO - Standardized format for column Channel Username in dataset 1.
+2024-10-19 06:12:00,068 - INFO - Standardized format for column Message in dataset 1.
+2024-10-19 06:12:00,069 - INFO - Standardized format for column Date in dataset 1.
+2024-10-19 06:12:00,073 - INFO - Standardized format for column Media Path in dataset 1.
+2024-10-19 06:12:00,076 - INFO - Standardized format for column Channel Title in dataset 2.
+2024-10-19 06:12:00,080 - INFO - Standardized format for column Channel Username in dataset 2.
+2024-10-19 06:12:00,086 - INFO - Standardized format for column Message in dataset 2.
+2024-10-19 06:12:00,088 - INFO - Standardized format for column Date in dataset 2.
+2024-10-19 06:12:00,091 - INFO - Standardized format for column Media Path in dataset 2.
+2024-10-19 06:12:00,094 - INFO - Standardized format for column Channel Title in dataset 3.
+2024-10-19 06:12:00,099 - INFO - Standardized format for column Channel Username in dataset 3.
+2024-10-19 06:12:00,108 - INFO - Standardized format for column Message in dataset 3.
+2024-10-19 06:12:00,112 - INFO - Standardized format for column Date in dataset 3.
+2024-10-19 06:12:00,116 - INFO - Standardized format for column Media Path in dataset 3.
+2024-10-19 06:12:00,127 - INFO - Standardized format for column Channel Title in dataset 4.
+2024-10-19 06:12:00,132 - INFO - Standardized format for column Channel Username in dataset 4.
+2024-10-19 06:12:00,142 - INFO - Standardized format for column Message in dataset 4.
+2024-10-19 06:12:00,145 - INFO - Standardized format for column Date in dataset 4.
+2024-10-19 06:12:00,149 - INFO - Standardized format for column Media Path in dataset 4.

@@ -1,0 +1,546 @@
+2024-10-18 08:23:33,159 - INFO - Starting to clean data for file: AHCI_data.csv
+2024-10-18 08:23:33,186 - ERROR - Error cleaning file AHCI_data.csv: [Errno 2] No such file or directory: 'AHCI_data.csv'
+2024-10-18 08:23:33,214 - ERROR - Skipping file AHCI_data.csv due to errors in cleaning process.
+2024-10-18 08:23:33,215 - INFO - Starting to clean data for file: obelia4cosmetics_data.csv
+2024-10-18 08:23:33,215 - ERROR - Error cleaning file obelia4cosmetics_data.csv: [Errno 2] No such file or directory: 'obelia4cosmetics_data.csv'
+2024-10-18 08:23:33,216 - ERROR - Skipping file obelia4cosmetics_data.csv due to errors in cleaning process.
+2024-10-18 08:23:33,217 - INFO - Starting to clean data for file: DoctorsET_data.csv
+2024-10-18 08:23:33,218 - ERROR - Error cleaning file DoctorsET_data.csv: [Errno 2] No such file or directory: 'DoctorsET_data.csv'
+2024-10-18 08:23:33,219 - ERROR - Skipping file DoctorsET_data.csv due to errors in cleaning process.
+2024-10-18 08:23:33,219 - INFO - Starting to clean data for file: heMed123_data.csv
+2024-10-18 08:23:33,219 - ERROR - Error cleaning file heMed123_data.csv: [Errno 2] No such file or directory: 'heMed123_data.csv'
+2024-10-18 08:23:33,220 - ERROR - Skipping file heMed123_data.csv due to errors in cleaning process.
+2024-10-18 08:23:33,220 - INFO - Starting to clean data for file: etenaweg_data.csv
+2024-10-18 08:23:33,221 - ERROR - Error cleaning file etenaweg_data.csv: [Errno 2] No such file or directory: 'etenaweg_data.csv'
+2024-10-18 08:23:33,222 - ERROR - Skipping file etenaweg_data.csv due to errors in cleaning process.
+2024-10-18 09:02:37,895 - INFO - Loaded file: AHCI_data.csv with 20 rows.
+2024-10-18 09:02:37,945 - INFO - Loaded file: DoctorsET_data.csv with 20 rows.
+2024-10-18 09:02:38,011 - INFO - Loaded file: etenaweg_data.csv with 20 rows.
+2024-10-18 09:02:38,033 - INFO - Loaded file: heMed123_data.csv with 20 rows.
+2024-10-18 09:02:38,052 - INFO - Loaded file: obelia4cosmetics_data.csv with 20 rows.
+2024-10-18 09:02:38,300 - INFO - Removed duplicates from dataset 0. Original length: 20, New length: 20.
+2024-10-18 09:02:38,303 - INFO - Removed duplicates from dataset 1. Original length: 20, New length: 20.
+2024-10-18 09:02:38,306 - INFO - Removed duplicates from dataset 2. Original length: 20, New length: 20.
+2024-10-18 09:02:38,309 - INFO - Removed duplicates from dataset 3. Original length: 20, New length: 20.
+2024-10-18 09:02:38,312 - INFO - Removed duplicates from dataset 4. Original length: 20, New length: 20.
+2024-10-18 09:02:38,374 - INFO - Handled missing values in dataset 0.
+2024-10-18 09:02:38,375 - INFO - Handled missing values in dataset 1.
+2024-10-18 09:02:38,377 - INFO - Handled missing values in dataset 2.
+2024-10-18 09:02:38,379 - INFO - Handled missing values in dataset 3.
+2024-10-18 09:02:38,380 - INFO - Handled missing values in dataset 4.
+2024-10-18 09:02:38,655 - INFO - Standardized format for column Channel Title in dataset 0.
+2024-10-18 09:02:38,663 - INFO - Standardized format for column Channel Username in dataset 0.
+2024-10-18 09:02:38,730 - INFO - Standardized format for column Message in dataset 0.
+2024-10-18 09:02:38,878 - INFO - Standardized format for column Date in dataset 0.
+2024-10-18 09:02:38,884 - INFO - Standardized format for column Media Path in dataset 0.
+2024-10-18 09:02:38,903 - INFO - Standardized format for column Channel Title in dataset 1.
+2024-10-18 09:02:38,935 - INFO - Standardized format for column Channel Username in dataset 1.
+2024-10-18 09:02:38,957 - INFO - Standardized format for column Message in dataset 1.
+2024-10-18 09:02:38,960 - INFO - Standardized format for column Date in dataset 1.
+2024-10-18 09:02:38,967 - INFO - Standardized format for column Media Path in dataset 1.
+2024-10-18 09:02:38,973 - INFO - Standardized format for column Channel Title in dataset 2.
+2024-10-18 09:02:38,986 - INFO - Standardized format for column Channel Username in dataset 2.
+2024-10-18 09:02:38,996 - INFO - Standardized format for column Message in dataset 2.
+2024-10-18 09:02:38,999 - INFO - Standardized format for column Date in dataset 2.
+2024-10-18 09:02:39,008 - INFO - Standardized format for column Media Path in dataset 2.
+2024-10-18 09:02:39,018 - INFO - Standardized format for column Channel Title in dataset 3.
+2024-10-18 09:02:39,025 - INFO - Standardized format for column Channel Username in dataset 3.
+2024-10-18 09:02:39,093 - INFO - Standardized format for column Message in dataset 3.
+2024-10-18 09:02:39,095 - INFO - Standardized format for column Date in dataset 3.
+2024-10-18 09:02:39,099 - INFO - Standardized format for column Media Path in dataset 3.
+2024-10-18 09:02:39,109 - INFO - Standardized format for column Channel Title in dataset 4.
+2024-10-18 09:02:39,114 - INFO - Standardized format for column Channel Username in dataset 4.
+2024-10-18 09:02:39,140 - INFO - Standardized format for column Message in dataset 4.
+2024-10-18 09:02:39,143 - INFO - Standardized format for column Date in dataset 4.
+2024-10-18 09:02:39,149 - INFO - Standardized format for column Media Path in dataset 4.
+2024-10-18 09:02:39,371 - INFO - Stored cleaned data for dataset 0 to cleaned_data.
+2024-10-18 09:02:39,375 - INFO - Stored cleaned data for dataset 1 to cleaned_data.
+2024-10-18 09:02:39,381 - INFO - Stored cleaned data for dataset 2 to cleaned_data.
+2024-10-18 09:02:39,384 - INFO - Stored cleaned data for dataset 3 to cleaned_data.
+2024-10-18 09:02:39,390 - INFO - Stored cleaned data for dataset 4 to cleaned_data.
+2024-10-18 09:02:39,585 - INFO - Processed image: @DoctorsET_833.jpg.
+2024-10-18 09:02:39,656 - INFO - Processed image: @DoctorsET_834.jpg.
+2024-10-18 09:02:39,729 - INFO - Processed image: @DoctorsET_835.jpg.
+2024-10-18 09:02:39,826 - INFO - Processed image: @DoctorsET_836.jpg.
+2024-10-18 09:02:39,889 - INFO - Processed image: @DoctorsET_839.jpg.
+2024-10-18 09:02:39,958 - INFO - Processed image: @DoctorsET_840.jpg.
+2024-10-18 09:02:39,999 - INFO - Processed image: @DoctorsET_841.jpg.
+2024-10-18 09:02:40,033 - INFO - Processed image: @DoctorsET_842.jpg.
+2024-10-18 09:02:40,107 - INFO - Processed image: @DoctorsET_843.jpg.
+2024-10-18 09:02:40,160 - INFO - Processed image: @DoctorsET_844.jpg.
+2024-10-18 09:02:40,223 - INFO - Processed image: @DoctorsET_845.jpg.
+2024-10-18 09:02:40,281 - INFO - Processed image: @DoctorsET_846.jpg.
+2024-10-18 09:02:40,595 - INFO - Processed image: @DoctorsET_847.jpg.
+2024-10-18 09:02:40,738 - INFO - Processed image: @DoctorsET_848.jpg.
+2024-10-18 09:02:40,789 - INFO - Processed image: @DoctorsET_859.jpg.
+2024-10-18 09:02:40,875 - INFO - Processed image: @DoctorsET_860.jpg.
+2024-10-18 09:02:40,968 - INFO - Processed image: @DoctorsET_861.jpg.
+2024-10-18 09:02:41,024 - INFO - Processed image: @DoctorsET_862.jpg.
+2024-10-18 09:02:41,128 - INFO - Processed image: @DoctorsET_863.jpg.
+2024-10-18 09:02:41,189 - INFO - Processed image: @DoctorsET_864.jpg.
+2024-10-18 09:02:41,270 - INFO - Processed image: CheMed123_76.jpg.
+2024-10-18 09:02:41,346 - INFO - Processed image: CheMed123_77.jpg.
+2024-10-18 09:02:41,642 - INFO - Processed image: CheMed123_78.jpg.
+2024-10-18 09:02:41,767 - INFO - Processed image: CheMed123_79.jpg.
+2024-10-18 09:02:41,816 - INFO - Processed image: CheMed123_80.jpg.
+2024-10-18 09:02:41,892 - INFO - Processed image: CheMed123_81.jpg.
+2024-10-18 09:02:41,995 - INFO - Processed image: CheMed123_82.jpg.
+2024-10-18 09:02:42,135 - INFO - Processed image: CheMed123_85.jpg.
+2024-10-18 09:02:42,250 - INFO - Processed image: CheMed123_86.jpg.
+2024-10-18 09:02:42,337 - INFO - Processed image: CheMed123_87.jpg.
+2024-10-18 09:02:42,419 - INFO - Processed image: CheMed123_88.jpg.
+2024-10-18 09:02:42,519 - INFO - Processed image: CheMed123_90.jpg.
+2024-10-18 09:02:42,596 - INFO - Processed image: CheMed123_91.jpg.
+2024-10-18 09:02:42,687 - INFO - Processed image: CheMed123_92.jpg.
+2024-10-18 09:02:42,775 - INFO - Processed image: CheMed123_93.jpg.
+2024-10-18 09:02:42,979 - INFO - Processed image: CheMed123_94.jpg.
+2024-10-18 09:02:43,241 - INFO - Processed image: CheMed123_95.jpg.
+2024-10-18 09:02:43,343 - INFO - Processed image: CheMed123_96.jpg.
+2024-10-18 09:02:43,429 - INFO - Processed image: CheMed123_97.jpg.
+2024-10-18 09:02:43,495 - INFO - Processed image: EAHCI_2399.jpg.
+2024-10-18 09:02:43,573 - INFO - Processed image: EAHCI_2401.jpg.
+2024-10-18 09:02:43,625 - INFO - Processed image: EAHCI_2402.jpg.
+2024-10-18 09:02:43,687 - INFO - Processed image: EAHCI_2403.jpg.
+2024-10-18 09:02:43,747 - INFO - Processed image: EAHCI_2405.jpg.
+2024-10-18 09:02:43,783 - INFO - Processed image: EAHCI_2406.jpg.
+2024-10-18 09:02:43,823 - INFO - Processed image: EAHCI_2407.jpg.
+2024-10-18 09:02:43,884 - INFO - Processed image: EAHCI_2408.jpg.
+2024-10-18 09:02:43,950 - INFO - Processed image: EAHCI_2413.jpg.
+2024-10-18 09:02:44,024 - INFO - Processed image: EAHCI_2414.jpg.
+2024-10-18 09:02:44,141 - INFO - Processed image: EAHCI_2416.jpg.
+2024-10-18 09:02:44,456 - INFO - Processed image: EAHCI_2419.jpg.
+2024-10-18 09:02:44,573 - INFO - Processed image: EAHCI_2420.jpg.
+2024-10-18 09:02:44,744 - INFO - Processed image: EAHCI_2421.jpg.
+2024-10-18 09:02:44,882 - INFO - Processed image: EAHCI_2422.jpg.
+2024-10-18 09:02:44,976 - INFO - Processed image: EAHCI_2423.jpg.
+2024-10-18 09:02:45,053 - INFO - Processed image: lobelia4cosmetics_12561.jpg.
+2024-10-18 09:02:45,139 - INFO - Processed image: lobelia4cosmetics_12562.jpg.
+2024-10-18 09:02:45,222 - INFO - Processed image: lobelia4cosmetics_12563.jpg.
+2024-10-18 09:02:45,301 - INFO - Processed image: lobelia4cosmetics_12564.jpg.
+2024-10-18 09:02:45,340 - INFO - Processed image: lobelia4cosmetics_12565.jpg.
+2024-10-18 09:02:50,441 - INFO - Loaded file: AHCI_data.csv with 20 rows.
+2024-10-18 09:02:50,445 - INFO - Loaded file: DoctorsET_data.csv with 20 rows.
+2024-10-18 09:02:50,448 - INFO - Loaded file: etenaweg_data.csv with 20 rows.
+2024-10-18 09:02:50,450 - INFO - Loaded file: heMed123_data.csv with 20 rows.
+2024-10-18 09:02:50,452 - INFO - Loaded file: obelia4cosmetics_data.csv with 20 rows.
+2024-10-18 09:02:50,454 - INFO - Removed duplicates from dataset 0. Original length: 20, New length: 20.
+2024-10-18 09:02:50,456 - INFO - Removed duplicates from dataset 1. Original length: 20, New length: 20.
+2024-10-18 09:02:50,457 - INFO - Removed duplicates from dataset 2. Original length: 20, New length: 20.
+2024-10-18 09:02:50,458 - INFO - Removed duplicates from dataset 3. Original length: 20, New length: 20.
+2024-10-18 09:02:50,460 - INFO - Removed duplicates from dataset 4. Original length: 20, New length: 20.
+2024-10-18 09:02:50,460 - INFO - Handled missing values in dataset 0.
+2024-10-18 09:02:50,461 - INFO - Handled missing values in dataset 1.
+2024-10-18 09:02:50,462 - INFO - Handled missing values in dataset 2.
+2024-10-18 09:02:50,463 - INFO - Handled missing values in dataset 3.
+2024-10-18 09:02:50,463 - INFO - Handled missing values in dataset 4.
+2024-10-18 09:02:50,470 - INFO - Standardized format for column Channel Title in dataset 0.
+2024-10-18 09:02:50,473 - INFO - Standardized format for column Channel Username in dataset 0.
+2024-10-18 09:02:50,484 - INFO - Standardized format for column Message in dataset 0.
+2024-10-18 09:02:50,495 - INFO - Standardized format for column Date in dataset 0.
+2024-10-18 09:02:50,503 - INFO - Standardized format for column Media Path in dataset 0.
+2024-10-18 09:02:50,557 - INFO - Standardized format for column Channel Title in dataset 1.
+2024-10-18 09:02:50,621 - INFO - Standardized format for column Channel Username in dataset 1.
+2024-10-18 09:02:50,669 - INFO - Standardized format for column Message in dataset 1.
+2024-10-18 09:02:50,673 - INFO - Standardized format for column Date in dataset 1.
+2024-10-18 09:02:50,701 - INFO - Standardized format for column Media Path in dataset 1.
+2024-10-18 09:02:50,716 - INFO - Standardized format for column Channel Title in dataset 2.
+2024-10-18 09:02:50,762 - INFO - Standardized format for column Channel Username in dataset 2.
+2024-10-18 09:02:50,782 - INFO - Standardized format for column Message in dataset 2.
+2024-10-18 09:02:50,785 - INFO - Standardized format for column Date in dataset 2.
+2024-10-18 09:02:50,812 - INFO - Standardized format for column Media Path in dataset 2.
+2024-10-18 09:02:50,838 - INFO - Standardized format for column Channel Title in dataset 3.
+2024-10-18 09:02:50,847 - INFO - Standardized format for column Channel Username in dataset 3.
+2024-10-18 09:02:50,862 - INFO - Standardized format for column Message in dataset 3.
+2024-10-18 09:02:50,867 - INFO - Standardized format for column Date in dataset 3.
+2024-10-18 09:02:50,874 - INFO - Standardized format for column Media Path in dataset 3.
+2024-10-18 09:02:50,880 - INFO - Standardized format for column Channel Title in dataset 4.
+2024-10-18 09:02:50,889 - INFO - Standardized format for column Channel Username in dataset 4.
+2024-10-18 09:02:50,911 - INFO - Standardized format for column Message in dataset 4.
+2024-10-18 09:02:50,914 - INFO - Standardized format for column Date in dataset 4.
+2024-10-18 09:02:50,922 - INFO - Standardized format for column Media Path in dataset 4.
+2024-10-18 09:02:50,936 - INFO - Stored cleaned data for dataset 0 to cleaned_data.
+2024-10-18 09:02:50,942 - INFO - Stored cleaned data for dataset 1 to cleaned_data.
+2024-10-18 09:02:50,946 - INFO - Stored cleaned data for dataset 2 to cleaned_data.
+2024-10-18 09:02:50,954 - INFO - Stored cleaned data for dataset 3 to cleaned_data.
+2024-10-18 09:02:50,961 - INFO - Stored cleaned data for dataset 4 to cleaned_data.
+2024-10-18 09:02:51,020 - INFO - Processed image: @DoctorsET_833.jpg.
+2024-10-18 09:02:51,031 - INFO - Processed image: @DoctorsET_834.jpg.
+2024-10-18 09:02:51,052 - INFO - Processed image: @DoctorsET_835.jpg.
+2024-10-18 09:02:51,073 - INFO - Processed image: @DoctorsET_836.jpg.
+2024-10-18 09:02:51,093 - INFO - Processed image: @DoctorsET_839.jpg.
+2024-10-18 09:02:51,113 - INFO - Processed image: @DoctorsET_840.jpg.
+2024-10-18 09:02:51,132 - INFO - Processed image: @DoctorsET_841.jpg.
+2024-10-18 09:02:51,151 - INFO - Processed image: @DoctorsET_842.jpg.
+2024-10-18 09:02:51,183 - INFO - Processed image: @DoctorsET_843.jpg.
+2024-10-18 09:02:51,205 - INFO - Processed image: @DoctorsET_844.jpg.
+2024-10-18 09:02:51,238 - INFO - Processed image: @DoctorsET_845.jpg.
+2024-10-18 09:02:51,260 - INFO - Processed image: @DoctorsET_846.jpg.
+2024-10-18 09:02:51,292 - INFO - Processed image: @DoctorsET_847.jpg.
+2024-10-18 09:02:51,325 - INFO - Processed image: @DoctorsET_848.jpg.
+2024-10-18 09:02:51,345 - INFO - Processed image: @DoctorsET_859.jpg.
+2024-10-18 09:02:51,366 - INFO - Processed image: @DoctorsET_860.jpg.
+2024-10-18 09:02:51,389 - INFO - Processed image: @DoctorsET_861.jpg.
+2024-10-18 09:02:51,410 - INFO - Processed image: @DoctorsET_862.jpg.
+2024-10-18 09:02:51,432 - INFO - Processed image: @DoctorsET_863.jpg.
+2024-10-18 09:02:51,452 - INFO - Processed image: @DoctorsET_864.jpg.
+2024-10-18 09:02:51,479 - INFO - Processed image: CheMed123_76.jpg.
+2024-10-18 09:02:51,514 - INFO - Processed image: CheMed123_77.jpg.
+2024-10-18 09:02:51,553 - INFO - Processed image: CheMed123_78.jpg.
+2024-10-18 09:02:51,590 - INFO - Processed image: CheMed123_79.jpg.
+2024-10-18 09:02:51,615 - INFO - Processed image: CheMed123_80.jpg.
+2024-10-18 09:02:51,649 - INFO - Processed image: CheMed123_81.jpg.
+2024-10-18 09:02:51,682 - INFO - Processed image: CheMed123_82.jpg.
+2024-10-18 09:02:51,714 - INFO - Processed image: CheMed123_85.jpg.
+2024-10-18 09:02:51,755 - INFO - Processed image: CheMed123_86.jpg.
+2024-10-18 09:02:51,788 - INFO - Processed image: CheMed123_87.jpg.
+2024-10-18 09:02:51,823 - INFO - Processed image: CheMed123_88.jpg.
+2024-10-18 09:02:51,863 - INFO - Processed image: CheMed123_90.jpg.
+2024-10-18 09:02:51,897 - INFO - Processed image: CheMed123_91.jpg.
+2024-10-18 09:02:51,934 - INFO - Processed image: CheMed123_92.jpg.
+2024-10-18 09:02:51,970 - INFO - Processed image: CheMed123_93.jpg.
+2024-10-18 09:02:52,011 - INFO - Processed image: CheMed123_94.jpg.
+2024-10-18 09:02:52,047 - INFO - Processed image: CheMed123_95.jpg.
+2024-10-18 09:02:52,090 - INFO - Processed image: CheMed123_96.jpg.
+2024-10-18 09:02:52,124 - INFO - Processed image: CheMed123_97.jpg.
+2024-10-18 09:02:52,180 - INFO - Processed image: EAHCI_2399.jpg.
+2024-10-18 09:02:52,281 - INFO - Processed image: EAHCI_2401.jpg.
+2024-10-18 09:02:52,310 - INFO - Processed image: EAHCI_2402.jpg.
+2024-10-18 09:02:52,351 - INFO - Processed image: EAHCI_2403.jpg.
+2024-10-18 09:02:52,381 - INFO - Processed image: EAHCI_2405.jpg.
+2024-10-18 09:02:52,396 - INFO - Processed image: EAHCI_2406.jpg.
+2024-10-18 09:02:52,403 - INFO - Processed image: EAHCI_2407.jpg.
+2024-10-18 09:02:52,449 - INFO - Processed image: EAHCI_2408.jpg.
+2024-10-18 09:02:52,475 - INFO - Processed image: EAHCI_2413.jpg.
+2024-10-18 09:02:52,499 - INFO - Processed image: EAHCI_2414.jpg.
+2024-10-18 09:02:52,535 - INFO - Processed image: EAHCI_2416.jpg.
+2024-10-18 09:02:52,576 - INFO - Processed image: EAHCI_2419.jpg.
+2024-10-18 09:02:52,615 - INFO - Processed image: EAHCI_2420.jpg.
+2024-10-18 09:02:52,649 - INFO - Processed image: EAHCI_2421.jpg.
+2024-10-18 09:02:52,691 - INFO - Processed image: EAHCI_2422.jpg.
+2024-10-18 09:02:52,731 - INFO - Processed image: EAHCI_2423.jpg.
+2024-10-18 09:02:52,776 - INFO - Processed image: lobelia4cosmetics_12561.jpg.
+2024-10-18 09:02:52,812 - INFO - Processed image: lobelia4cosmetics_12562.jpg.
+2024-10-18 09:02:52,831 - INFO - Processed image: lobelia4cosmetics_12563.jpg.
+2024-10-18 09:02:52,876 - INFO - Processed image: lobelia4cosmetics_12564.jpg.
+2024-10-18 09:02:52,887 - INFO - Processed image: lobelia4cosmetics_12565.jpg.
+2024-10-18 09:02:52,893 - INFO - Processed image: lobelia4cosmetics_12566.jpg.
+2024-10-18 09:02:53,016 - INFO - Processed image: lobelia4cosmetics_12567.jpg.
+2024-10-18 09:02:53,082 - INFO - Processed image: lobelia4cosmetics_12568.jpg.
+2024-10-18 09:02:53,123 - INFO - Processed image: lobelia4cosmetics_12569.jpg.
+2024-10-18 09:02:53,214 - INFO - Processed image: lobelia4cosmetics_12570.jpg.
+2024-10-18 09:02:53,305 - INFO - Processed image: lobelia4cosmetics_12571.jpg.
+2024-10-18 09:02:53,349 - INFO - Processed image: lobelia4cosmetics_12572.jpg.
+2024-10-18 09:02:53,384 - INFO - Processed image: lobelia4cosmetics_12573.jpg.
+2024-10-18 09:02:53,476 - INFO - Processed image: lobelia4cosmetics_12574.jpg.
+2024-10-18 09:02:53,595 - INFO - Processed image: lobelia4cosmetics_12575.jpg.
+2024-10-18 09:02:53,670 - INFO - Processed image: lobelia4cosmetics_12576.jpg.
+2024-10-18 09:02:53,726 - INFO - Processed image: lobelia4cosmetics_12577.jpg.
+2024-10-18 09:02:53,848 - INFO - Processed image: lobelia4cosmetics_12578.jpg.
+2024-10-18 09:02:53,923 - INFO - Processed image: lobelia4cosmetics_12579.jpg.
+2024-10-18 09:02:54,107 - INFO - Processed image: lobelia4cosmetics_12580.jpg.
+2024-10-18 09:02:54,176 - INFO - Processed image: yetenaweg_1164.jpg.
+2024-10-18 09:02:54,303 - INFO - Processed image: yetenaweg_1165.jpg.
+2024-10-18 09:02:54,507 - INFO - Processed image: yetenaweg_1166.jpg.
+2024-10-18 09:02:54,558 - INFO - Processed image: yetenaweg_1167.jpg.
+2024-10-18 09:02:54,609 - INFO - Processed image: yetenaweg_1168.jpg.
+2024-10-18 09:02:54,660 - INFO - Processed image: yetenaweg_1169.jpg.
+2024-10-18 09:02:54,758 - INFO - Processed image: yetenaweg_1171.jpg.
+2024-10-18 09:02:54,818 - INFO - Processed image: yetenaweg_1172.jpg.
+2024-10-18 09:02:54,867 - INFO - Processed image: yetenaweg_1175.jpg.
+2024-10-18 09:02:54,965 - INFO - Processed image: yetenaweg_1176.jpg.
+2024-10-18 09:02:55,036 - INFO - Processed image: yetenaweg_1177.jpg.
+2024-10-18 09:02:55,219 - INFO - Processed image: yetenaweg_1178.jpg.
+2024-10-18 09:02:55,292 - INFO - Processed image: yetenaweg_1183.jpg.
+2024-10-18 09:02:55,361 - INFO - Processed image: yetenaweg_1184.jpg.
+2024-10-18 09:03:29,667 - INFO - Loaded file: AHCI_data.csv with 20 rows.
+2024-10-18 09:03:29,670 - INFO - Loaded file: DoctorsET_data.csv with 20 rows.
+2024-10-18 09:03:29,673 - INFO - Loaded file: etenaweg_data.csv with 20 rows.
+2024-10-18 09:03:29,676 - INFO - Loaded file: heMed123_data.csv with 20 rows.
+2024-10-18 09:03:29,679 - INFO - Loaded file: obelia4cosmetics_data.csv with 20 rows.
+2024-10-18 09:03:29,681 - INFO - Removed duplicates from dataset 0. Original length: 20, New length: 20.
+2024-10-18 09:03:29,683 - INFO - Removed duplicates from dataset 1. Original length: 20, New length: 20.
+2024-10-18 09:03:29,684 - INFO - Removed duplicates from dataset 2. Original length: 20, New length: 20.
+2024-10-18 09:03:29,685 - INFO - Removed duplicates from dataset 3. Original length: 20, New length: 20.
+2024-10-18 09:03:29,687 - INFO - Removed duplicates from dataset 4. Original length: 20, New length: 20.
+2024-10-18 09:03:29,688 - INFO - Handled missing values in dataset 0.
+2024-10-18 09:03:29,689 - INFO - Handled missing values in dataset 1.
+2024-10-18 09:03:29,689 - INFO - Handled missing values in dataset 2.
+2024-10-18 09:03:29,690 - INFO - Handled missing values in dataset 3.
+2024-10-18 09:03:29,691 - INFO - Handled missing values in dataset 4.
+2024-10-18 09:03:29,700 - INFO - Standardized format for column Channel Title in dataset 0.
+2024-10-18 09:03:29,704 - INFO - Standardized format for column Channel Username in dataset 0.
+2024-10-18 09:03:29,721 - INFO - Standardized format for column Message in dataset 0.
+2024-10-18 09:03:29,731 - INFO - Standardized format for column Date in dataset 0.
+2024-10-18 09:03:29,743 - INFO - Standardized format for column Media Path in dataset 0.
+2024-10-18 09:03:29,751 - INFO - Standardized format for column Channel Title in dataset 1.
+2024-10-18 09:03:29,757 - INFO - Standardized format for column Channel Username in dataset 1.
+2024-10-18 09:03:29,775 - INFO - Standardized format for column Message in dataset 1.
+2024-10-18 09:03:29,781 - INFO - Standardized format for column Date in dataset 1.
+2024-10-18 09:03:29,786 - INFO - Standardized format for column Media Path in dataset 1.
+2024-10-18 09:03:29,796 - INFO - Standardized format for column Channel Title in dataset 2.
+2024-10-18 09:03:29,802 - INFO - Standardized format for column Channel Username in dataset 2.
+2024-10-18 09:03:29,815 - INFO - Standardized format for column Message in dataset 2.
+2024-10-18 09:03:29,817 - INFO - Standardized format for column Date in dataset 2.
+2024-10-18 09:03:29,821 - INFO - Standardized format for column Media Path in dataset 2.
+2024-10-18 09:03:29,832 - INFO - Standardized format for column Channel Title in dataset 3.
+2024-10-18 09:03:29,837 - INFO - Standardized format for column Channel Username in dataset 3.
+2024-10-18 09:03:29,859 - INFO - Standardized format for column Message in dataset 3.
+2024-10-18 09:03:29,862 - INFO - Standardized format for column Date in dataset 3.
+2024-10-18 09:03:29,869 - INFO - Standardized format for column Media Path in dataset 3.
+2024-10-18 09:03:29,884 - INFO - Standardized format for column Channel Title in dataset 4.
+2024-10-18 09:03:29,888 - INFO - Standardized format for column Channel Username in dataset 4.
+2024-10-18 09:03:29,910 - INFO - Standardized format for column Message in dataset 4.
+2024-10-18 09:03:29,913 - INFO - Standardized format for column Date in dataset 4.
+2024-10-18 09:03:29,921 - INFO - Standardized format for column Media Path in dataset 4.
+2024-10-18 09:03:29,929 - INFO - Stored cleaned data for dataset 0 to cleaned_data.
+2024-10-18 09:03:29,934 - INFO - Stored cleaned data for dataset 1 to cleaned_data.
+2024-10-18 09:03:29,945 - INFO - Stored cleaned data for dataset 2 to cleaned_data.
+2024-10-18 09:03:29,950 - INFO - Stored cleaned data for dataset 3 to cleaned_data.
+2024-10-18 09:03:29,954 - INFO - Stored cleaned data for dataset 4 to cleaned_data.
+2024-10-18 09:03:30,020 - INFO - Processed image: @DoctorsET_833.jpg.
+2024-10-18 09:03:30,031 - INFO - Processed image: @DoctorsET_834.jpg.
+2024-10-18 09:03:30,052 - INFO - Processed image: @DoctorsET_835.jpg.
+2024-10-18 09:03:30,073 - INFO - Processed image: @DoctorsET_836.jpg.
+2024-10-18 09:03:30,095 - INFO - Processed image: @DoctorsET_839.jpg.
+2024-10-18 09:03:30,116 - INFO - Processed image: @DoctorsET_840.jpg.
+2024-10-18 09:03:30,150 - INFO - Processed image: @DoctorsET_841.jpg.
+2024-10-18 09:03:30,169 - INFO - Processed image: @DoctorsET_842.jpg.
+2024-10-18 09:03:30,202 - INFO - Processed image: @DoctorsET_843.jpg.
+2024-10-18 09:03:30,224 - INFO - Processed image: @DoctorsET_844.jpg.
+2024-10-18 09:03:30,255 - INFO - Processed image: @DoctorsET_845.jpg.
+2024-10-18 09:03:30,276 - INFO - Processed image: @DoctorsET_846.jpg.
+2024-10-18 09:03:30,307 - INFO - Processed image: @DoctorsET_847.jpg.
+2024-10-18 09:03:30,339 - INFO - Processed image: @DoctorsET_848.jpg.
+2024-10-18 09:03:30,359 - INFO - Processed image: @DoctorsET_859.jpg.
+2024-10-18 09:03:30,380 - INFO - Processed image: @DoctorsET_860.jpg.
+2024-10-18 09:03:30,402 - INFO - Processed image: @DoctorsET_861.jpg.
+2024-10-18 09:03:30,424 - INFO - Processed image: @DoctorsET_862.jpg.
+2024-10-18 09:03:30,446 - INFO - Processed image: @DoctorsET_863.jpg.
+2024-10-18 09:03:30,467 - INFO - Processed image: @DoctorsET_864.jpg.
+2024-10-18 09:03:30,495 - INFO - Processed image: CheMed123_76.jpg.
+2024-10-18 09:03:30,531 - INFO - Processed image: CheMed123_77.jpg.
+2024-10-18 09:03:30,569 - INFO - Processed image: CheMed123_78.jpg.
+2024-10-18 09:03:30,611 - INFO - Processed image: CheMed123_79.jpg.
+2024-10-18 09:03:30,645 - INFO - Processed image: CheMed123_80.jpg.
+2024-10-18 09:03:30,685 - INFO - Processed image: CheMed123_81.jpg.
+2024-10-18 09:03:30,723 - INFO - Processed image: CheMed123_82.jpg.
+2024-10-18 09:03:30,762 - INFO - Processed image: CheMed123_85.jpg.
+2024-10-18 09:03:30,802 - INFO - Processed image: CheMed123_86.jpg.
+2024-10-18 09:03:30,840 - INFO - Processed image: CheMed123_87.jpg.
+2024-10-18 09:03:30,877 - INFO - Processed image: CheMed123_88.jpg.
+2024-10-18 09:03:30,924 - INFO - Processed image: CheMed123_90.jpg.
+2024-10-18 09:03:30,972 - INFO - Processed image: CheMed123_91.jpg.
+2024-10-18 09:03:31,024 - INFO - Processed image: CheMed123_92.jpg.
+2024-10-18 09:03:31,071 - INFO - Processed image: CheMed123_93.jpg.
+2024-10-18 09:03:31,130 - INFO - Processed image: CheMed123_94.jpg.
+2024-10-18 09:03:31,173 - INFO - Processed image: CheMed123_95.jpg.
+2024-10-18 09:03:31,222 - INFO - Processed image: CheMed123_96.jpg.
+2024-10-18 09:03:31,431 - INFO - Processed image: CheMed123_97.jpg.
+2024-10-18 09:03:31,476 - INFO - Processed image: EAHCI_2399.jpg.
+2024-10-18 09:03:31,512 - INFO - Processed image: EAHCI_2401.jpg.
+2024-10-18 09:03:31,541 - INFO - Processed image: EAHCI_2402.jpg.
+2024-10-18 09:03:31,574 - INFO - Processed image: EAHCI_2403.jpg.
+2024-10-18 09:03:31,606 - INFO - Processed image: EAHCI_2405.jpg.
+2024-10-18 09:03:31,619 - INFO - Processed image: EAHCI_2406.jpg.
+2024-10-18 09:03:31,626 - INFO - Processed image: EAHCI_2407.jpg.
+2024-10-18 09:03:31,665 - INFO - Processed image: EAHCI_2408.jpg.
+2024-10-18 09:03:31,694 - INFO - Processed image: EAHCI_2413.jpg.
+2024-10-18 09:03:31,720 - INFO - Processed image: EAHCI_2414.jpg.
+2024-10-18 09:03:31,770 - INFO - Processed image: EAHCI_2416.jpg.
+2024-10-18 09:03:31,827 - INFO - Processed image: EAHCI_2419.jpg.
+2024-10-18 09:03:31,877 - INFO - Processed image: EAHCI_2420.jpg.
+2024-10-18 09:03:31,941 - INFO - Processed image: EAHCI_2421.jpg.
+2024-10-18 09:03:31,993 - INFO - Processed image: EAHCI_2422.jpg.
+2024-10-18 09:03:32,038 - INFO - Processed image: EAHCI_2423.jpg.
+2024-10-18 09:03:32,090 - INFO - Processed image: lobelia4cosmetics_12561.jpg.
+2024-10-18 09:03:32,132 - INFO - Processed image: lobelia4cosmetics_12562.jpg.
+2024-10-18 09:03:32,154 - INFO - Processed image: lobelia4cosmetics_12563.jpg.
+2024-10-18 09:03:32,225 - INFO - Processed image: lobelia4cosmetics_12564.jpg.
+2024-10-18 09:03:32,241 - INFO - Processed image: lobelia4cosmetics_12565.jpg.
+2024-10-18 09:03:32,249 - INFO - Processed image: lobelia4cosmetics_12566.jpg.
+2024-10-18 09:03:32,287 - INFO - Processed image: lobelia4cosmetics_12567.jpg.
+2024-10-18 09:03:32,294 - INFO - Processed image: lobelia4cosmetics_12568.jpg.
+2024-10-18 09:03:32,310 - INFO - Processed image: lobelia4cosmetics_12569.jpg.
+2024-10-18 09:03:32,348 - INFO - Processed image: lobelia4cosmetics_12570.jpg.
+2024-10-18 09:03:32,410 - INFO - Processed image: lobelia4cosmetics_12571.jpg.
+2024-10-18 09:03:32,427 - INFO - Processed image: lobelia4cosmetics_12572.jpg.
+2024-10-18 09:03:32,438 - INFO - Processed image: lobelia4cosmetics_12573.jpg.
+2024-10-18 09:03:36,941 - INFO - Loaded file: AHCI_data.csv with 20 rows.
+2024-10-18 09:03:36,943 - INFO - Loaded file: DoctorsET_data.csv with 20 rows.
+2024-10-18 09:03:36,946 - INFO - Loaded file: etenaweg_data.csv with 20 rows.
+2024-10-18 09:03:36,948 - INFO - Loaded file: heMed123_data.csv with 20 rows.
+2024-10-18 09:03:36,951 - INFO - Loaded file: obelia4cosmetics_data.csv with 20 rows.
+2024-10-18 09:03:36,953 - INFO - Removed duplicates from dataset 0. Original length: 20, New length: 20.
+2024-10-18 09:03:36,955 - INFO - Removed duplicates from dataset 1. Original length: 20, New length: 20.
+2024-10-18 09:03:36,956 - INFO - Removed duplicates from dataset 2. Original length: 20, New length: 20.
+2024-10-18 09:03:36,957 - INFO - Removed duplicates from dataset 3. Original length: 20, New length: 20.
+2024-10-18 09:03:36,959 - INFO - Removed duplicates from dataset 4. Original length: 20, New length: 20.
+2024-10-18 09:03:36,959 - INFO - Handled missing values in dataset 0.
+2024-10-18 09:03:36,960 - INFO - Handled missing values in dataset 1.
+2024-10-18 09:03:36,961 - INFO - Handled missing values in dataset 2.
+2024-10-18 09:03:36,962 - INFO - Handled missing values in dataset 3.
+2024-10-18 09:03:36,962 - INFO - Handled missing values in dataset 4.
+2024-10-18 09:03:36,970 - INFO - Standardized format for column Channel Title in dataset 0.
+2024-10-18 09:03:36,973 - INFO - Standardized format for column Channel Username in dataset 0.
+2024-10-18 09:03:36,984 - INFO - Standardized format for column Message in dataset 0.
+2024-10-18 09:03:36,992 - INFO - Standardized format for column Date in dataset 0.
+2024-10-18 09:03:37,002 - INFO - Standardized format for column Media Path in dataset 0.
+2024-10-18 09:03:37,014 - INFO - Standardized format for column Channel Title in dataset 1.
+2024-10-18 09:03:37,021 - INFO - Standardized format for column Channel Username in dataset 1.
+2024-10-18 09:03:37,075 - INFO - Standardized format for column Message in dataset 1.
+2024-10-18 09:03:37,079 - INFO - Standardized format for column Date in dataset 1.
+2024-10-18 09:03:37,084 - INFO - Standardized format for column Media Path in dataset 1.
+2024-10-18 09:03:37,097 - INFO - Standardized format for column Channel Title in dataset 2.
+2024-10-18 09:03:37,102 - INFO - Standardized format for column Channel Username in dataset 2.
+2024-10-18 09:03:37,119 - INFO - Standardized format for column Message in dataset 2.
+2024-10-18 09:03:37,123 - INFO - Standardized format for column Date in dataset 2.
+2024-10-18 09:03:37,127 - INFO - Standardized format for column Media Path in dataset 2.
+2024-10-18 09:03:37,133 - INFO - Standardized format for column Channel Title in dataset 3.
+2024-10-18 09:03:37,144 - INFO - Standardized format for column Channel Username in dataset 3.
+2024-10-18 09:03:37,159 - INFO - Standardized format for column Message in dataset 3.
+2024-10-18 09:03:37,161 - INFO - Standardized format for column Date in dataset 3.
+2024-10-18 09:03:37,173 - INFO - Standardized format for column Media Path in dataset 3.
+2024-10-18 09:03:37,177 - INFO - Standardized format for column Channel Title in dataset 4.
+2024-10-18 09:03:37,184 - INFO - Standardized format for column Channel Username in dataset 4.
+2024-10-18 09:03:37,207 - INFO - Standardized format for column Message in dataset 4.
+2024-10-18 09:03:37,208 - INFO - Standardized format for column Date in dataset 4.
+2024-10-18 09:03:37,216 - INFO - Standardized format for column Media Path in dataset 4.
+2024-10-18 09:03:37,223 - INFO - Stored cleaned data for dataset 0 to cleaned_data.
+2024-10-18 09:03:37,227 - INFO - Stored cleaned data for dataset 1 to cleaned_data.
+2024-10-18 09:03:37,236 - INFO - Stored cleaned data for dataset 2 to cleaned_data.
+2024-10-18 09:03:37,241 - INFO - Stored cleaned data for dataset 3 to cleaned_data.
+2024-10-18 09:03:37,246 - INFO - Stored cleaned data for dataset 4 to cleaned_data.
+2024-10-18 09:03:37,306 - INFO - Processed image: @DoctorsET_833.jpg.
+2024-10-18 09:03:37,317 - INFO - Processed image: @DoctorsET_834.jpg.
+2024-10-18 09:03:37,338 - INFO - Processed image: @DoctorsET_835.jpg.
+2024-10-18 09:03:37,358 - INFO - Processed image: @DoctorsET_836.jpg.
+2024-10-18 09:03:37,378 - INFO - Processed image: @DoctorsET_839.jpg.
+2024-10-18 09:03:37,396 - INFO - Processed image: @DoctorsET_840.jpg.
+2024-10-18 09:03:37,417 - INFO - Processed image: @DoctorsET_841.jpg.
+2024-10-18 09:03:37,437 - INFO - Processed image: @DoctorsET_842.jpg.
+2024-10-18 09:03:37,469 - INFO - Processed image: @DoctorsET_843.jpg.
+2024-10-18 09:03:37,490 - INFO - Processed image: @DoctorsET_844.jpg.
+2024-10-18 09:03:37,521 - INFO - Processed image: @DoctorsET_845.jpg.
+2024-10-18 09:03:37,542 - INFO - Processed image: @DoctorsET_846.jpg.
+2024-10-18 09:03:37,572 - INFO - Processed image: @DoctorsET_847.jpg.
+2024-10-18 09:03:37,605 - INFO - Processed image: @DoctorsET_848.jpg.
+2024-10-18 09:03:37,624 - INFO - Processed image: @DoctorsET_859.jpg.
+2024-10-18 09:03:37,645 - INFO - Processed image: @DoctorsET_860.jpg.
+2024-10-18 09:03:37,665 - INFO - Processed image: @DoctorsET_861.jpg.
+2024-10-18 09:03:37,686 - INFO - Processed image: @DoctorsET_862.jpg.
+2024-10-18 09:03:37,707 - INFO - Processed image: @DoctorsET_863.jpg.
+2024-10-18 09:03:37,729 - INFO - Processed image: @DoctorsET_864.jpg.
+2024-10-18 09:03:37,769 - INFO - Processed image: CheMed123_76.jpg.
+2024-10-18 09:03:37,818 - INFO - Processed image: CheMed123_77.jpg.
+2024-10-18 09:03:37,873 - INFO - Processed image: CheMed123_78.jpg.
+2024-10-18 09:03:37,913 - INFO - Processed image: CheMed123_79.jpg.
+2024-10-18 09:03:37,941 - INFO - Processed image: CheMed123_80.jpg.
+2024-10-18 09:03:37,980 - INFO - Processed image: CheMed123_81.jpg.
+2024-10-18 09:03:38,017 - INFO - Processed image: CheMed123_82.jpg.
+2024-10-18 09:03:38,056 - INFO - Processed image: CheMed123_85.jpg.
+2024-10-18 09:03:38,106 - INFO - Processed image: CheMed123_86.jpg.
+2024-10-18 09:03:38,155 - INFO - Processed image: CheMed123_87.jpg.
+2024-10-18 09:03:38,198 - INFO - Processed image: CheMed123_88.jpg.
+2024-10-18 09:03:38,251 - INFO - Processed image: CheMed123_90.jpg.
+2024-10-18 09:03:38,295 - INFO - Processed image: CheMed123_91.jpg.
+2024-10-18 09:03:38,351 - INFO - Processed image: CheMed123_92.jpg.
+2024-10-18 09:03:38,398 - INFO - Processed image: CheMed123_93.jpg.
+2024-10-18 09:03:38,450 - INFO - Processed image: CheMed123_94.jpg.
+2024-10-18 09:03:38,488 - INFO - Processed image: CheMed123_95.jpg.
+2024-10-18 09:03:38,535 - INFO - Processed image: CheMed123_96.jpg.
+2024-10-18 09:03:38,708 - INFO - Processed image: CheMed123_97.jpg.
+2024-10-18 09:03:38,747 - INFO - Processed image: EAHCI_2399.jpg.
+2024-10-18 09:03:38,785 - INFO - Processed image: EAHCI_2401.jpg.
+2024-10-18 09:03:38,813 - INFO - Processed image: EAHCI_2402.jpg.
+2024-10-18 09:03:38,849 - INFO - Processed image: EAHCI_2403.jpg.
+2024-10-18 09:03:38,876 - INFO - Processed image: EAHCI_2405.jpg.
+2024-10-18 09:03:38,887 - INFO - Processed image: EAHCI_2406.jpg.
+2024-10-18 09:03:38,893 - INFO - Processed image: EAHCI_2407.jpg.
+2024-10-18 09:03:38,929 - INFO - Processed image: EAHCI_2408.jpg.
+2024-10-18 09:03:38,952 - INFO - Processed image: EAHCI_2413.jpg.
+2024-10-18 09:03:38,974 - INFO - Processed image: EAHCI_2414.jpg.
+2024-10-18 09:03:39,021 - INFO - Processed image: EAHCI_2416.jpg.
+2024-10-18 09:03:39,067 - INFO - Processed image: EAHCI_2419.jpg.
+2024-10-18 09:03:39,105 - INFO - Processed image: EAHCI_2420.jpg.
+2024-10-18 09:03:39,137 - INFO - Processed image: EAHCI_2421.jpg.
+2024-10-18 09:03:39,175 - INFO - Processed image: EAHCI_2422.jpg.
+2024-10-18 09:03:39,212 - INFO - Processed image: EAHCI_2423.jpg.
+2024-10-18 09:03:39,258 - INFO - Processed image: lobelia4cosmetics_12561.jpg.
+2024-10-18 09:03:39,295 - INFO - Processed image: lobelia4cosmetics_12562.jpg.
+2024-10-18 09:03:39,315 - INFO - Processed image: lobelia4cosmetics_12563.jpg.
+2024-10-18 09:03:39,358 - INFO - Processed image: lobelia4cosmetics_12564.jpg.
+2024-10-18 09:03:39,369 - INFO - Processed image: lobelia4cosmetics_12565.jpg.
+2024-10-18 09:03:39,376 - INFO - Processed image: lobelia4cosmetics_12566.jpg.
+2024-10-18 09:03:39,405 - INFO - Processed image: lobelia4cosmetics_12567.jpg.
+2024-10-18 09:03:39,411 - INFO - Processed image: lobelia4cosmetics_12568.jpg.
+2024-10-18 09:03:39,423 - INFO - Processed image: lobelia4cosmetics_12569.jpg.
+2024-10-18 09:03:39,454 - INFO - Processed image: lobelia4cosmetics_12570.jpg.
+2024-10-18 09:03:39,502 - INFO - Processed image: lobelia4cosmetics_12571.jpg.
+2024-10-18 09:03:39,513 - INFO - Processed image: lobelia4cosmetics_12572.jpg.
+2024-10-18 09:03:39,519 - INFO - Processed image: lobelia4cosmetics_12573.jpg.
+2024-10-18 09:03:39,567 - INFO - Processed image: lobelia4cosmetics_12574.jpg.
+2024-10-18 09:03:39,618 - INFO - Processed image: lobelia4cosmetics_12575.jpg.
+2024-10-18 09:03:39,660 - INFO - Processed image: lobelia4cosmetics_12576.jpg.
+2024-10-18 09:03:39,698 - INFO - Processed image: lobelia4cosmetics_12577.jpg.
+2024-10-18 09:03:39,745 - INFO - Processed image: lobelia4cosmetics_12578.jpg.
+2024-10-18 09:03:39,774 - INFO - Processed image: lobelia4cosmetics_12579.jpg.
+2024-10-18 09:03:39,830 - INFO - Processed image: lobelia4cosmetics_12580.jpg.
+2024-10-18 09:03:39,852 - INFO - Processed image: yetenaweg_1164.jpg.
+2024-10-18 09:03:39,874 - INFO - Processed image: yetenaweg_1165.jpg.
+2024-10-18 09:03:39,897 - INFO - Processed image: yetenaweg_1166.jpg.
+2024-10-18 09:03:39,921 - INFO - Processed image: yetenaweg_1167.jpg.
+2024-10-18 09:03:39,945 - INFO - Processed image: yetenaweg_1168.jpg.
+2024-10-18 09:03:39,968 - INFO - Processed image: yetenaweg_1169.jpg.
+2024-10-18 09:03:40,014 - INFO - Processed image: yetenaweg_1171.jpg.
+2024-10-18 09:03:40,061 - INFO - Processed image: yetenaweg_1172.jpg.
+2024-10-18 09:03:40,084 - INFO - Processed image: yetenaweg_1175.jpg.
+2024-10-18 09:03:40,108 - INFO - Processed image: yetenaweg_1176.jpg.
+2024-10-18 09:03:40,132 - INFO - Processed image: yetenaweg_1177.jpg.
+2024-10-18 09:03:40,156 - INFO - Processed image: yetenaweg_1178.jpg.
+2024-10-18 09:03:40,188 - INFO - Processed image: yetenaweg_1183.jpg.
+2024-10-18 09:03:40,221 - INFO - Processed image: yetenaweg_1184.jpg.
+2024-10-19 06:06:50,159 - INFO - Loaded file: AHCI_data.csv with 20 rows.
+2024-10-19 06:06:50,263 - INFO - Loaded file: DoctorsET_data.csv with 20 rows.
+2024-10-19 06:06:50,530 - INFO - Loaded file: etenaweg_data.csv with 20 rows.
+2024-10-19 06:06:50,559 - INFO - Loaded file: heMed123_data.csv with 20 rows.
+2024-10-19 06:06:50,594 - INFO - Loaded file: obelia4cosmetics_data.csv with 20 rows.
+2024-10-19 06:06:52,075 - INFO - Removed duplicates from dataset 0. Original length: 20, New length: 20.
+2024-10-19 06:06:52,078 - INFO - Removed duplicates from dataset 1. Original length: 20, New length: 20.
+2024-10-19 06:06:52,081 - INFO - Removed duplicates from dataset 2. Original length: 20, New length: 20.
+2024-10-19 06:06:52,084 - INFO - Removed duplicates from dataset 3. Original length: 20, New length: 20.
+2024-10-19 06:06:52,087 - INFO - Removed duplicates from dataset 4. Original length: 20, New length: 20.
+2024-10-19 06:06:52,296 - INFO - Handled missing values in dataset 0.
+2024-10-19 06:06:52,298 - INFO - Handled missing values in dataset 1.
+2024-10-19 06:06:52,300 - INFO - Handled missing values in dataset 2.
+2024-10-19 06:06:52,301 - INFO - Handled missing values in dataset 3.
+2024-10-19 06:06:52,308 - INFO - Handled missing values in dataset 4.
+2024-10-19 06:06:53,174 - INFO - Standardized format for column Channel Title in dataset 0.
+2024-10-19 06:06:53,225 - INFO - Standardized format for column Channel Username in dataset 0.
+2024-10-19 06:06:53,309 - INFO - Standardized format for column Message in dataset 0.
+2024-10-19 06:06:53,654 - INFO - Standardized format for column Date in dataset 0.
+2024-10-19 06:06:53,667 - INFO - Standardized format for column Media Path in dataset 0.
+2024-10-19 06:06:53,693 - INFO - Standardized format for column Channel Title in dataset 1.
+2024-10-19 06:06:53,704 - INFO - Standardized format for column Channel Username in dataset 1.
+2024-10-19 06:06:53,876 - INFO - Standardized format for column Message in dataset 1.
+2024-10-19 06:06:53,912 - INFO - Standardized format for column Date in dataset 1.
+2024-10-19 06:06:54,232 - INFO - Standardized format for column Media Path in dataset 1.
+2024-10-19 06:06:54,373 - INFO - Standardized format for column Channel Title in dataset 2.
+2024-10-19 06:06:54,421 - INFO - Standardized format for column Channel Username in dataset 2.
+2024-10-19 06:06:54,566 - INFO - Standardized format for column Message in dataset 2.
+2024-10-19 06:06:54,596 - INFO - Standardized format for column Date in dataset 2.
+2024-10-19 06:06:54,627 - INFO - Standardized format for column Media Path in dataset 2.
+2024-10-19 06:06:54,696 - INFO - Standardized format for column Channel Title in dataset 3.
+2024-10-19 06:06:54,752 - INFO - Standardized format for column Channel Username in dataset 3.
+2024-10-19 06:06:54,904 - INFO - Standardized format for column Message in dataset 3.
+2024-10-19 06:06:54,908 - INFO - Standardized format for column Date in dataset 3.
+2024-10-19 06:06:54,937 - INFO - Standardized format for column Media Path in dataset 3.
+2024-10-19 06:06:54,946 - INFO - Standardized format for column Channel Title in dataset 4.
+2024-10-19 06:06:54,987 - INFO - Standardized format for column Channel Username in dataset 4.
+2024-10-19 06:06:55,084 - INFO - Standardized format for column Message in dataset 4.
+2024-10-19 06:06:55,115 - INFO - Standardized format for column Date in dataset 4.
+2024-10-19 06:06:55,151 - INFO - Standardized format for column Media Path in dataset 4.
+2024-10-19 06:06:55,606 - INFO - Stored cleaned data for dataset 0 to cleaned_data.
+2024-10-19 06:06:55,633 - INFO - Stored cleaned data for dataset 1 to cleaned_data.
+2024-10-19 06:06:55,639 - INFO - Stored cleaned data for dataset 2 to cleaned_data.
+2024-10-19 06:06:55,647 - INFO - Stored cleaned data for dataset 3 to cleaned_data.
+2024-10-19 06:06:55,652 - INFO - Stored cleaned data for dataset 4 to cleaned_data.
