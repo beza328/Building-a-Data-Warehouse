@@ -1,0 +1,36 @@
+version: 2
+
+sources:
+  - name: cleaned_data
+    database: cleaned_data  # Database name
+    schema: public  # PostgreSQL schema
+    tables:
+      - name: cleaned_data_0
+      - name: cleaned_data_1
+      - name: cleaned_data_2
+      - name: cleaned_data_3
+      - name: cleaned_data_4
+
+
+
+models:
+  - name: medical_data
+    description: "This model consolidates cleaned data from multiple sources and provides standardized fields."
+    columns:
+      - name: "ID"
+        description: "The unique identifier for each record."
+        tests:
+          - not_null
+          - unique
+      - name: "Message"
+        description: "The message text scraped from Telegram channels."
+        tests:
+          - not_null  # Ensure there are no null messages
+      - name: "Date"
+        description: "The date the message was sent."
+        tests:
+          - not_null  # Ensure every record has a date
+      - name: "Media Path"
+        description: "The path to any media associated with the message."
+        tests:
+          - not_null  # Ensure there's a media path

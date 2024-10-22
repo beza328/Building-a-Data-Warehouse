@@ -1,0 +1,13 @@
+medical_data:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: "1911"
+      port: 5434
+      dbname: cleaned_data  # This is your Postgres database name
+      schema: public        # You can change it based on the schema you're using
+      threads: 4            # Number of threads to use for DBT runs
+      keepalives_idle: 0     # Optional parameter to keep database connections alive
